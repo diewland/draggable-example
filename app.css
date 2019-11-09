@@ -1,0 +1,8 @@
+/* fix z-index issue */
+.draggable-mirror { z-index: 99; }
+
+/* sample css */
+.draggable-source {
+  height: 100px;
+  cursor: pointer;
+}
